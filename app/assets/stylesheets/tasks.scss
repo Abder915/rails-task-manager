@@ -1,0 +1,24 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+// css for main
+
+.inner {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.completion{
+  display: flex;
+  align-text: center;
+}
+  //justify-content: space-between;
+.completion p {
+    padding-left: 10px;
+  }
+
+.completion i {
+  margin-bottom: 0px !important;
+  }
